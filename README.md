@@ -47,14 +47,12 @@ I want people to be creative with the 36-word rule (but not ignore it). I wrote 
 ---
 
 
+Draw tarot cards.
 
+* Major Arcana are **Challenges** and **Obstacles**.
+* Court Cards are **Allies**, **Items** and **Skills**.
+* Numbers are **Strengthen bonds** and **uncover secrets**.
 
-Fate's Hand
-Draw three cards. Major Arcana are Aspects, Court Cards are Skills, Numbers are Items. Use them to tell stories.
-To attempt anything risky, draw. Major Arcana succeed spectacularly, Court Cards succeed normally, Numbers may fail.
-Turn cards face-down when used. Reshuffle when deck empties.
+Cards drawn upside are a bane.
 
-Players draw cards to determine fate and abilities.
-
-The Major Arcana shapes quests and challenges.
-Minor Arcana offers items and allies. Strengthen bonds, uncover secrets, and shape your destiny with each draw.
+Players tell stories of their past adventures.
